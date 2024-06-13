@@ -10,5 +10,3 @@
 - Next.js
 - Node.js
 - Express
-- Python
-- Squilte
