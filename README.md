@@ -1,5 +1,5 @@
 # Hi im David
-## proggramer junior specialized in front end developer 
+## programmer junior specialized in front end web developer 
 
 ### Skills
 - Html
